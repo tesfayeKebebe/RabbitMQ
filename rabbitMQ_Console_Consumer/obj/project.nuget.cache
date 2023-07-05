@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "bInvsAJ8wmyW50s/pHPNoyFaDkp46Ze3nVwmgoL4rno8TlnG/RUWkO1kQ4fnLyE1UDvyfVa0eagih6nn6wk+2Q==",
+  "success": true,
+  "projectFilePath": "/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/rabbitMQ_Console_Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/activbetdev./.nuget/packages/rabbitmq.client/6.5.0/rabbitmq.client.6.5.0.nupkg.sha512",
+    "/Users/activbetdev./.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/activbetdev./.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://159.223.8.153:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

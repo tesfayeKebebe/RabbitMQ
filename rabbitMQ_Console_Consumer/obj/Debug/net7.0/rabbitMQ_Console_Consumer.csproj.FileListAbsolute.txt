@@ -1,0 +1,17 @@
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/bin/Debug/net7.0/rabbitMQ_Console_Consumer
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/bin/Debug/net7.0/rabbitMQ_Console_Consumer.deps.json
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/bin/Debug/net7.0/rabbitMQ_Console_Consumer.runtimeconfig.json
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/bin/Debug/net7.0/rabbitMQ_Console_Consumer.dll
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/bin/Debug/net7.0/rabbitMQ_Console_Consumer.pdb
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/rabbitMQ_Console_Consumer.csproj.AssemblyReference.cache
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/rabbitMQ_Console_Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/rabbitMQ_Console_Consumer.AssemblyInfoInputs.cache
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/rabbitMQ_Console_Consumer.AssemblyInfo.cs
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/rabbitMQ_Console_Consumer.csproj.CoreCompileInputs.cache
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/rabbitMQ_Console_Consumer.csproj.CopyComplete
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/rabbitMQ_Console_Consumer.dll
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/refint/rabbitMQ_Console_Consumer.dll
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/rabbitMQ_Console_Consumer.pdb
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/rabbitMQ_Console_Consumer.genruntimeconfig.cache
+/Users/activbetdev./Activbet Projects/RabbitMQ_Project/rabbitMQ_Console_Consumer/obj/Debug/net7.0/ref/rabbitMQ_Console_Consumer.dll
