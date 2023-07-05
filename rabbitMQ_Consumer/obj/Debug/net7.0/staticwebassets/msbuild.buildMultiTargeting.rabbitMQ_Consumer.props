@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/rabbitMQ_Consumer.props" />
-</Project>

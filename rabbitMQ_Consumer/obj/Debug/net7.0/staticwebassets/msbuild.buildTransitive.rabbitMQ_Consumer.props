@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/rabbitMQ_Consumer.props" />
-</Project>
